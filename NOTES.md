@@ -72,12 +72,12 @@ greet.upper()
 ```
 **split()**
 ```
-cheeses = 'brie, cheddar, stilton'
+cheeses = 'swiss, cheddar, mozzarella'
 cheeses.split(',')
 ```
 *returns:* 
 ```
-['brie','cheddar','stilton']
+['swiss','cheddar','mozzarella']
 ```
 **len()**
 ```
